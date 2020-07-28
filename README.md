@@ -20,11 +20,15 @@ If anyone wants to add his/her controller, you should edit __controller2d.py__ w
 this file has some functions, but you are interested in __update_controls__ function, in which you can edit and implement your controller design.
 
 ###  The Race Tack including waypoints:
-
+![race track](https://user-images.githubusercontent.com/31229408/88675954-cc32e180-d0eb-11ea-87c2-9e0a5b09eafe.jpg)
 
 ### Some concepts and formulas:
+![long](https://user-images.githubusercontent.com/31229408/88676012-df45b180-d0eb-11ea-9f7c-b62a6723ba0e.jpg)
+![lateral](https://user-images.githubusercontent.com/31229408/88676015-dfde4800-d0eb-11ea-8eb2-3f40377f7d01.jpg)
 
 ### Solution Figures:
+![mss](https://user-images.githubusercontent.com/31229408/88676066-f08ebe00-d0eb-11ea-9a2d-def201ff1f3f.PNG)
+![ms](https://user-images.githubusercontent.com/31229408/88676069-f1275480-d0eb-11ea-8bbc-eef60768b878.PNG)  
 
 ### Final Notes:
 
